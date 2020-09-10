@@ -3,3 +3,8 @@ This repository contains the implementation of handwritten digit identification 
 
 # Dataset
 [MNIST](http://yann.lecun.com/exdb/mnist/)
+
+
+# Requirements
+[Python](https://www.python.org/downloads/)
+
